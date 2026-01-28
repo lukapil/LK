@@ -207,6 +207,8 @@ section.download {
 section.download h2 {
   font-size: 50px;
   margin-top: 0;
+    color: rgba(255, 255, 255, 0.3);
+  background-color: #222222;
 }
 
 section.download .badges .badge-link {
